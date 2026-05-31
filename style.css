@@ -11,6 +11,10 @@ body {
   text-align: center;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 main {
   max-width: 900px; /* Prevents text from stretching too wide on large screens */
   margin: 0 auto;
